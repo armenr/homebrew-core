@@ -2,7 +2,7 @@ class Pulumi < Formula
   desc "Cloud native development platform"
   homepage "https://pulumi.io/"
   url "https://github.com/pulumi/pulumi.git",
-      :tag      => "v0.17.25",
+      :tag      => "v0.17.27",
       :revision => "563dff3d92bf979ef6ac0a8983d6e63cb97c2064"
 
   bottle do
